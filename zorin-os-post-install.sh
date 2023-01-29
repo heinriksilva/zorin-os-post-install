@@ -1,4 +1,9 @@
 #!/bin/bash
+# ------------------------------------------------------------------------------------------------------------- #
+# AUTOR: Juracy Neto
+# NOME:  zorin-os-post-install.sh	
+# CHANGELOG: Última edição 29/01/2023
+# ------------------------------------------------------------------------------------------------------------- #
 echo "Qual versão deseja executar? Escolha D para desktop (zorin os 16.2 core) ou N para Notebook (zorin os 16.2 xfce) - D/N"
 read Desktop
 
