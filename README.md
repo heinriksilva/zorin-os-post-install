@@ -9,10 +9,10 @@ Como usar este script?
 ------------------------
 Basta baixar e executar como root:
 ```
-$ git clone https://github.com/heinriksilva/zorin-os-post-install
+$ git clone https://github.com/heinriksilva/zorin-os-post-install.git
 $ cd zorin-os-post-install/
-$ chmod +x zorin-os-post-install
-$ sudo ./zorin-os-post-install
+$ chmod +x zorin-os-post-install.sh
+$ sudo ./zorin-os-post-install.sh
 
 Escolher entre a versão Desktop (zorin os 16.2 core) ou Notebook (zorin os 16.2 xfce)
 ```
